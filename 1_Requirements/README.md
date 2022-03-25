@@ -39,3 +39,20 @@ System design is a solution for how to approach to the creation of a new system.
 # Detail requirements
 ## High Level Requirements:
 
+| ID | Description | Status |
+|----|-------------|--------|
+| HR_01|Operating system(Windos 10/Linux)|Implemented|
+| HR_02|C Language |Implemented |
+| HR_03|Pentium IV Processor | Implemented |
+| HR_04|RAM(512MB)|Implemented|
+|HR_05| Hard Disk(2Gb)|Implemented|
+## Low Level Requirement 
+|ID|Description|Status|
+|--|-----------|------|
+|LR_01|	Functions to Add book	|Implemented |
+|LR_02|	Functions to View books availaible|	Implemented|
+|LR_03|	Functions to Search the book by ID|Implemented|
+|LR_04	|Functions to Update status of the book	|Implemented|
+|LR_05|	Functions to Delete the book by ID	|Implemented|
+
+
