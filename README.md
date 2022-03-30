@@ -8,6 +8,6 @@ This project “LIBRARY MANAGEMENT SYSTEM” gives us the complete information a
 ## CI status badge
 [![CI](https://github.com/Jhaaditya1999/MiniProject_Template/actions/workflows/main.yml/badge.svg)](https://github.com/Jhaaditya1999/MiniProject_Template/actions/workflows/main.yml)
 ## Code Quality badage
-[![Code Quality]https://api.codiga.io/project/32207/score/svg]
-## Coder Grade
-https://api.codiga.io/project/32207/status/svg
+![code quality score](https://api.codiga.io/project/32207/score/svg)
+## Code Grade
+![code grade](https://api.codiga.io/project/32207/status/svg)
