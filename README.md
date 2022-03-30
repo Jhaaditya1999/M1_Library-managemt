@@ -7,3 +7,7 @@ The project titled Library Management System is Library Management software for 
 This project “LIBRARY MANAGEMENT SYSTEM” gives us the complete information about the library. We can enter the record of new books and retrieve the details of books available in the library. We can issue the books to the students and maintain their records and can also check how many books are issued and stock available in the library. In this project we can maintain the late fine of students who returns the issued books after the due date.
 ## CI status badge
 [![CI](https://github.com/Jhaaditya1999/MiniProject_Template/actions/workflows/main.yml/badge.svg)](https://github.com/Jhaaditya1999/MiniProject_Template/actions/workflows/main.yml)
+## Code Quality badage
+[![Code Quality]https://api.codiga.io/project/32207/score/svg]
+## Coder Grade
+https://api.codiga.io/project/32207/status/svg
