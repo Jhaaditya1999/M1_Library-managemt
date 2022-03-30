@@ -11,3 +11,5 @@ This project “LIBRARY MANAGEMENT SYSTEM” gives us the complete information a
 ![code quality score](https://api.codiga.io/project/32207/score/svg)
 ## Code Grade
 ![code grade](https://api.codiga.io/project/32207/status/svg)
+## Codacy badge
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/4b60169399b046c09a3abaa91a93c035)](https://www.codacy.com/gh/Jhaaditya1999/MiniProject_Template/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Jhaaditya1999/MiniProject_Template&amp;utm_campaign=Badge_Grade)
