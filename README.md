@@ -12,7 +12,10 @@ This project “LIBRARY MANAGEMENT SYSTEM” gives us the complete information a
 ## Code Grade
 ![code grade](https://api.codiga.io/project/32207/status/svg)
 ## Codacy badge
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/4b60169399b046c09a3abaa91a93c035)](https://www.codacy.com/gh/Jhaaditya1999/MiniProject_Template/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Jhaaditya1999/MiniProject_Template&amp;utm_campaign=Badge_Grade)Folder Structure
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/4b60169399b046c09a3abaa91a93c035)](https://www.codacy.com/gh/Jhaaditya1999/MiniProject_Template/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Jhaaditya1999/MiniProject_Template&amp;utm_campaign=Badge_Grade)
+
+## Cpp Check
+[![Analysis](https://github.com/Jhaaditya1999/M1_Library-managemt/actions/workflows/c-cppCheck.yml/badge.svg)](https://github.com/Jhaaditya1999/M1_Library-managemt/actions/workflows/c-cppCheck.yml)
 ## Folder	Description
 |Folder|Description|
 |------|-----------|
