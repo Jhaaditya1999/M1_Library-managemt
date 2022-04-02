@@ -16,7 +16,7 @@ This project “LIBRARY MANAGEMENT SYSTEM” gives us the complete information a
 
 ## Cpp Check
 [![Analysis](https://github.com/Jhaaditya1999/M1_Library-managemt/actions/workflows/c-cppCheck.yml/badge.svg)](https://github.com/Jhaaditya1999/M1_Library-managemt/actions/workflows/c-cppCheck.yml)
-## Folder	Description
+## Folder	Structure
 |Folder|Description|
 |------|-----------|
 |1_Requirements|	Documents detailing requirements and research|
