@@ -1,11 +1,11 @@
 /**
  * @file library_management.h
- * @author Rahul (you@domain.com)
+ * @author Aditya (you@domain.com)
  * @brief 
  * @version 0.1
- * @date 2021-04-16
+ * @date 2022-03-16
  * 
- * @copyright Copyright (c) 2021
+ * @copyright Copyright (c) 2022
  * 
  */
 
